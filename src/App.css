@@ -1,0 +1,16 @@
+.white-text{
+  color: #fff;
+}
+.highlight{
+  color: #cc2323;
+  background-color: #f9ff5b;
+}
+
+.text-box{
+  height: 200px;
+  overflow: auto;
+}
+.input-box{
+  width: 100%;
+  margin-top: 30px;
+}
